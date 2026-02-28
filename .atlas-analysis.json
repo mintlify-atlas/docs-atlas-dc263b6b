@@ -90,7 +90,7 @@
   },
   "keyFeatures": [
     "Container-isolated agent execution with filesystem sandboxing",
-    "WhatsApp, Telegram, Discord, Slack, and Signal support",
+    "WhatsApp, Telegram, Discord, Slack, and Gmail support",
     "Per-group isolated context and memory (CLAUDE.md)",
     "Scheduled tasks with cron expressions",
     "Agent Swarms - collaborative multi-agent teams",
